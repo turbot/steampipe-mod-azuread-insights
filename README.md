@@ -1,0 +1,1 @@
+# steampipe-mod-azuread-insights
